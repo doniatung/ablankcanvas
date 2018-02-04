@@ -1,4 +1,8 @@
-  //retrieve node in DOM via ID
+//Donia Tung
+//SoftDev2 pd7
+//2018-02-03
+
+//retrieve node in DOM via ID
 var c = document.getElementById("slate");
   //instantiate a CanvasRenderingContext2D object
 var ctx = c.getContext("2d");
